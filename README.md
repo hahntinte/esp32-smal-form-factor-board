@@ -12,6 +12,6 @@ Tips for making the board at home:
 
 -To put the board into programming mode, just short the gpio 0 and en pads that look like they are for a diode. (Please don't install diodes on the pads.)
 
-The battery management system is an off-the-shelf Tp 4056 module that I just glued to the backside of the board and connected wires directly to the MP1700.
+-The battery management system is an off-the-shelf Tp 4056 module that I just glued to the backside of the board and connected wires directly to the MP1700.
 
 -(If you mill it yourself) you can use wires wrapped around the board instead of the vias. It's easier to manufacture it this way.
